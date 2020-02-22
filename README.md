@@ -1,2 +1,2 @@
 # MS2_Trainer
-Flashcard Trainer Program
+Training Program for Machine Components

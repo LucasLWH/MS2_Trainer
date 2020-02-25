@@ -1,2 +1,2 @@
 # MS2_Trainer
-Training Program for Machine Components
+Training Program to help in memorization for Machine Components Assessment
